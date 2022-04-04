@@ -1,0 +1,22 @@
+form {
+  margin-bottom: 20px;
+}
+.item {
+  display: flex;
+  align-items: center;
+}
+
+.item .item-title {
+  flex-grow: 1;
+}
+.complete-item {
+  text-decoration: line-through;
+  opacity: 0.4;
+}
+.check-complete {
+  margin-left: 10px;
+}
+
+.card {
+  margin: 10px;
+}
